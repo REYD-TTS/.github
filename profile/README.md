@@ -1,12 +1,27 @@
-## Hi there 👋
+## REYD: Reading Electronic Yiddish Documents
 
-<!--
+A project to develop text-to-speech (TTS) support for Yiddish
 
-**Here are some ideas to get you started:**
+**Authors:** [Jacob J. Webber](https://github.com/jacobjwebber), [Samuel Lo](https://github.com/vatnid), [Isaac L. Bleaman](https://github.com/ibleaman)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Paper
+
+* Citation and link coming soon
+
+### Resources
+
+#### Dataset for Yiddish TTS systems
+
+* REYD-dataset, link coming soon
+
+#### User-friendly demo of our neural TTS system
+
+* [Demo](https://colab.research.google.com/drive/1xv0I_auaZ9rdNMMyrBpJHvOotH9w_BHa?usp=sharing)
+* [Configuration files and pretrained models](https://figshare.com/articles/software/REYD_demo_files/19127957) (these are downloaded automatically in the demo)
+
+#### Preprocessing scripts
+
+Code used to generate our dataset:
+
+* [yiddish](https://github.com/ibleaman/yiddish): A Python library with common functions for processing Yiddish text
+* [REYD-texts](https://github.com/ibleaman/yiddish-tts-texts): Code to download and segment Yiddish audiobooks and hand-corrected texts, for training TTS systems
