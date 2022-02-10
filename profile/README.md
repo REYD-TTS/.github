@@ -8,20 +8,16 @@ A project to develop text-to-speech (TTS) support for Yiddish
 
 * Citation and link coming soon
 
-### Resources
+### Dataset
 
-#### Dataset for Yiddish TTS systems
+* Link coming soon
 
-* REYD-dataset, link coming soon
+### Demo
 
-#### User-friendly demo of our neural TTS system
+* Example utterances (TO-DO; grid webpage of ground truth and synthesized examples)
+* [Interactive demo](https://colab.research.google.com/drive/1xv0I_auaZ9rdNMMyrBpJHvOotH9w_BHa?usp=sharing)
 
-* [Demo](https://colab.research.google.com/drive/1xv0I_auaZ9rdNMMyrBpJHvOotH9w_BHa?usp=sharing)
-* [Configuration files and pretrained models](https://figshare.com/articles/software/REYD_demo_files/19127957) (these are downloaded automatically in the demo)
+### Other resources
 
-#### Preprocessing scripts
-
-Code used to generate our dataset:
-
+* [yiddish-tts-texts](https://github.com/ibleaman/yiddish-tts-texts): Code to download and segment Yiddish audiobooks and hand-corrected texts
 * [yiddish](https://github.com/ibleaman/yiddish): A Python library with common functions for processing Yiddish text
-* [REYD-texts](https://github.com/ibleaman/yiddish-tts-texts): Code to download and segment Yiddish audiobooks and hand-corrected texts, for training TTS systems
