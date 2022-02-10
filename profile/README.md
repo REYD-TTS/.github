@@ -19,5 +19,5 @@ A project to develop text-to-speech (TTS) support for Yiddish
 
 ### Other resources
 
-* [yiddish-tts-texts](https://github.com/ibleaman/yiddish-tts-texts): Code to download and segment Yiddish audiobooks and hand-corrected texts
-* [yiddish](https://github.com/ibleaman/yiddish): A Python library with common functions for processing Yiddish text
+* [yiddish-tts-texts](https://github.com/REYD-TTS/yiddish-tts-texts): Code to download and segment Yiddish audiobooks and hand-corrected texts
+* [yiddish](https://github.com/ibleaman/yiddish): A Python library for processing Yiddish text
