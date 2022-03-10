@@ -19,5 +19,6 @@ A project to develop text-to-speech (TTS) support for Yiddish
 
 ### Other resources
 
-* [yiddish-tts-texts](https://github.com/REYD-TTS/yiddish-tts-texts): Code to download and segment Yiddish audiobooks and hand-corrected texts
+* [yiddish-tts-texts](https://github.com/REYD-TTS/yiddish-tts-texts): Code to download and segment Yiddish audiobooks and hand-corrected texts; reproduces the REYD dataset linked above
+* [REYD-textgrids](https://github.com/REYD-TTS/REYD-textgrids): Praat TextGrid files to accompany the REYD dataset, produced by the [Montreal Forced Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner); used by FastSpeech2 (see [our fork](https://github.com/REYD-TTS/FastSpeech2) or the interactive demo linked above)
 * [yiddish](https://github.com/ibleaman/yiddish): A Python library for processing Yiddish text
