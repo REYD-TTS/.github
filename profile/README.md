@@ -10,7 +10,7 @@ A project to develop text-to-speech (TTS) support for Yiddish
 
 ### Dataset
 
-* Link coming soon
+* [Download](https://datashare.ed.ac.uk/bitstream/handle/10283/4383/reyd-dataset.zip)
 
 ### Demo
 
