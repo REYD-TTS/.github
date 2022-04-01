@@ -14,8 +14,8 @@ A project to develop text-to-speech (TTS) support for Yiddish
 
 ### Demo
 
-* Example utterances (TO-DO; grid webpage of ground truth and synthesized examples)
-* [Interactive demo](https://colab.research.google.com/drive/1xv0I_auaZ9rdNMMyrBpJHvOotH9w_BHa?usp=sharing)
+* [Audio samples](https://reyd-tts.github.io/audio-samples/) of ground-truth and synthesized utterances
+* [Interactive demo](https://colab.research.google.com/drive/1xv0I_auaZ9rdNMMyrBpJHvOotH9w_BHa?usp=sharing), if you'd like to synthesize your own texts
 
 ### Other resources
 
