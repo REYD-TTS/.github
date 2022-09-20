@@ -6,7 +6,7 @@ A project to develop text-to-speech (TTS) support for Yiddish
 
 ### Paper
 
-* Citation and link coming soon
+* Webber, Jacob J., Samuel K. Lo, and Isaac L. Bleaman. 2022. REYD – The First Yiddish Text-to-Speech Dataset and System. *Proceedings of Interspeech 2022*, 2363-2367. [doi: 10.21437/Interspeech.2022-789](https://doi.org/10.21437/Interspeech.2022-789)
 
 ### Dataset
 
